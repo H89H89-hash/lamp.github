@@ -1,0 +1,53 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+ul {
+  list-style: none;
+}
+a:hover {
+  border: solid rgb(149, 137, 255);
+  color: rgb(149, 137, 255);
+}
+.img {
+  margin-right: 172px;
+  width: 940px;
+}
+.about {
+  display: flex;
+}
+.header {
+  background: linear-gradient(-45deg, red, rgb(5, 255, 255), rgb(0, 255, 0));
+  padding-left: 3px;
+  height: 278px;
+  border: solid black;
+}
+.heading {
+  text-transform: uppercase;
+}
+.group {
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: black;
+  border: solid black;
+}
+.portfolio {
+  text-align: center;
+}
+.our-premium {
+  background: linear-gradient(-45deg, rgb(0, 255, 0), rgb(4, 255, 255), red);
+  text-align: center;
+}
+.lists {
+  padding-left: 264px;
+  text-align: center;
+  display: flex;
+}
+li {
+  width: 430px;
+}
+.logo {
+  border: solid black;
+  border-radius: 70px;
+}
